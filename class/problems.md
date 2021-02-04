@@ -1,10 +1,7 @@
 ## WARMUP - LOGIC
 
-Given two nums, return their sum. Unless the two values are the same, 
-then return double their sum.
-
-We have two monkeys, a and b, and the variables aSmile and bSmile indicate if each is smiling. 
-We are in trouble if they are both smiling or if neither of them is smiling. 
+We have two monkeys, a and b, and the variables aSmile and bSmile indicate if each is smiling.
+We are in trouble if they are both smiling or if neither of them is smiling.
 
 We have a loud talking parrot. The "hour" variable is the current hour time in the range 0..23. We are in trouble if the parrot is talking and the hour is before 7 or after 20. Return true if we are in trouble.
 
@@ -42,13 +39,13 @@ Given 2 nums, a and b, return their sum. However, sums in the range 10..19 inclu
 
 Given a number n, return true if n is in the range 1..10, inclusive. Unless outsideMode is true, in which case return true if the number is less or equal to 1, or greater or equal to 10.
 
-Return true if the given non-negative number is 1 or 2 more than a multiple of 20. 
+Return true if the given non-negative number is 1 or 2 more than a multiple of 20.
 
 Return true if the given non-negative number is 1 or 2 less than a multiple of 20. So for example 38 and 39 return true, but 40 returns false.
 
 Your cell phone rings. Return true if you should answer it. Normally you answer, except in the morning you only answer if it is your mom calling. In all cases, if you are asleep, you do not answer.
 
-## LOOPS     -for and while
+## LOOPS -for and while
 
 Create a program which returns the total of all odd numbers up to and including n.
 
@@ -59,12 +56,13 @@ Create a program that takes the last number of a consecutive list of numbers and
 Create a program that takes two variables (start, stop), and returns the sum of all even numbers in the range.
 
 Create a program, that will for a given a, b, c, do the following:
-    Add a to itself b times.
-    Check if the result is divisible by c.
+Add a to itself b times.
+Check if the result is divisible by c.
 
 ## SOLO PROJECTS
 
 # 1 Population Predictor
+
 Scientists have discovered that in four decades, the world will EXPLODE! It will also take three decades to make a spaceship to travel to a new planet that can hold the entire world population.
 
 You must calculate the number of people there will be in three decades from now.
@@ -74,12 +72,14 @@ Assume that every month, someone gives birth to more people, n.
 Return the number of people there will be when the spaceship is complete.
 
 # 2 Polygon Area Finder
-Make a calculator that takes in from the user a 
-    shape (or number of sides)
-    side lengths
+
+Make a calculator that takes in from the user a
+shape (or number of sides)
+side lengths
 and outputs the area
 Circle, Square, Triangle, etc.
 
-
-
 ## DONE
+
+Given two nums, return their sum. Unless the two values are the same,
+then return double their sum.

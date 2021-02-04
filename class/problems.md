@@ -1,10 +1,10 @@
 ## WARMUP - LOGIC
 
-We have two monkeys, a and b, and the variables aSmile and bSmile indicate if each is smiling. 
-We are in trouble if they are both smiling or if neither of them is smiling. 
-
 Given two nums, return their sum. Unless the two values are the same, 
 then return double their sum.
+
+We have two monkeys, a and b, and the variables aSmile and bSmile indicate if each is smiling. 
+We are in trouble if they are both smiling or if neither of them is smiling. 
 
 We have a loud talking parrot. The "hour" variable is the current hour time in the range 0..23. We are in trouble if the parrot is talking and the hour is before 7 or after 20. Return true if we are in trouble.
 

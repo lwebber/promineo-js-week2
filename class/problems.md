@@ -73,11 +73,12 @@ Return the number of people there will be when the spaceship is complete.
 
 # 2 Polygon Area Finder
 
-Make a calculator that takes in from the user a
-shape (or number of sides)
-side lengths
+Make a calculator that takes in from the user
+--a shape (or number of sides)
+--the side lengths
 and outputs the area
-Circle, Square, Triangle, etc.
+(Circle, Square, Triangle, etc.)
+(feel free to add features)
 
 ## DONE
 
